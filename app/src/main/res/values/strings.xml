@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">posts</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="error_empty_response_body">Response body was empty</string>
+    <string name="error_no_internet_connection">No internet connection. Please try again later.</string>
+    <string name="error_request_unsuccessful">Request unsuccessful</string>
+    <string name="something_went_wrong">Something went wrong. Please try again later.</string>
+    <string name="home_screen_text">Navigate to the Posts screen!</string>
+    <string name="post_screen_title">Posts</string>
+    <string name="no_posts_found">No posts could be found…</string>
+    <string name="post_detail_header_comments">Comments:</string>
+    <string name="refresh_comments_icon">Refresh comments</string>
+</resources>
